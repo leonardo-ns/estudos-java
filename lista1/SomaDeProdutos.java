@@ -10,5 +10,6 @@ public class SomaDeProdutos {
         b = sc.nextInt();
         soma = a + b;
         System.out.println("A soma dos produtos é: " + soma);
+        
     }
 }
